@@ -44,7 +44,64 @@ The system supports **stock control, order tracking, receipts, transfers, adjust
 
 ## 🚀 Getting Started  
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/anks864/FinalYearAIML05.git
-   cd FinalYearAIML05
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/anks864/FinalYearAIML05.git
+cd FinalYearAIML05
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run the development server
+```bash
+npm run dev
+```
+Now open [http://localhost:5173](http://localhost:5173) (default Vite port) in your browser.
+
+### 4. Build for production
+```bash
+npm run build
+```
+
+### 5. Preview production build
+```bash
+npm run preview
+```
+
+---
+
+## 📂 Project Structure  
+
+```
+FinalYearAIML05/
+│── App.tsx                         # Main React app (MVP implementation)
+│── Inventra_System_Architecture.png # Architecture diagram
+│── Lab01-AIML05-Inventra.pdf        # User Stories
+│── Lab02-AIML05-Inventra.pdf        # Backlog & Use Cases
+│── Lab03-AIML05-Inventra.pdf        # Analysis Classes & CRC Cards
+│── package.json                     # Project dependencies
+│── README.md                        # Project documentation
+```
+
+---
+
+## 👥 Team  
+
+**Team Name:** INVENTRA  
+**Course:** CSEN4174 – Software Engineering Lab  
+**Team Number:** 05  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute.  
+
+---
+
+✨ Built with passion for **AI/ML + Software Engineering**.  
