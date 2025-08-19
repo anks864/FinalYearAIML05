@@ -75,26 +75,11 @@ npm run preview
 
 ---
 
-## 📂 Project Structure  
-
-```
-FinalYearAIML05/
-│── App.tsx                         # Main React app (MVP implementation)
-│── Inventra_System_Architecture.png # Architecture diagram
-│── Lab01-AIML05-Inventra.pdf        # User Stories
-│── Lab02-AIML05-Inventra.pdf        # Backlog & Use Cases
-│── Lab03-AIML05-Inventra.pdf        # Analysis Classes & CRC Cards
-│── package.json                     # Project dependencies
-│── README.md                        # Project documentation
-```
-
----
-
 ## 👥 Team  
 
 **Team Name:** INVENTRA  
 **Course:** CSEN4174 – Software Engineering Lab  
-**Team Number:** 05  
+**Team Number:** AIML05  
 
 ---
 
