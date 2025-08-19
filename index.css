@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply bg-gray-50 text-gray-900; }
+  h1, h2, h3, h4, h5, h6 { @apply font-bold text-gray-800; }
+}
+
+@layer components {
+  .card { @apply bg-white shadow-card rounded-2xl p-4; }
+
+  .btn { @apply inline-flex items-center justify-center px-4 py-2 rounded-lg font-medium transition-colors; }
+
+  .btn-primary { @apply bg-brand-600 text-white hover:bg-brand-700; }
+  .btn-accent  { @apply bg-accent text-white hover:bg-accent-600; }
+  .btn-warning { @apply bg-warning text-white hover:bg-warning-600; }
+  .btn-danger  { @apply bg-danger text-white hover:bg-danger-700; }
+}
